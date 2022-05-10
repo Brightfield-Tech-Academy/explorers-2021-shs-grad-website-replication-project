@@ -1,0 +1,14 @@
+header {
+  position:relative;
+  height: 100vh;
+}
+#demo {
+  position: absolute;
+  width: 100%;
+  top:0;
+  z-index: -1;
+}
+.nav-item{
+  padding-right: 100px;
+}
+
